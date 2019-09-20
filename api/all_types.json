@@ -1,0 +1,82 @@
+[
+    {
+        "id": 10000,
+        "name": "liked",
+        "name_en": null,
+        "desc": null,
+        "desc_en": null,
+        "created_at": "2019-09-17T00:00:00.000Z",
+        "updated_at": "2019-09-17T00:00:00.000Z",
+        "seq": 1
+    },
+    {
+        "id": 20000,
+        "name": "推荐",
+        "name_en": null,
+        "desc": null,
+        "desc_en": null,
+        "created_at": "2019-09-17T00:00:00.000Z",
+        "updated_at": "2019-09-17T00:00:00.000Z",
+        "seq": 2
+    },
+    {
+        "id": 1,
+        "name": "大海",
+        "name_en": null,
+        "desc": null,
+        "desc_en": null,
+        "created_at": "2019-09-17T00:00:00.000Z",
+        "updated_at": "2019-09-17T00:00:00.000Z",
+        "seq": 3
+    },
+    {
+        "id": 2,
+        "name": "风景",
+        "name_en": null,
+        "desc": null,
+        "desc_en": null,
+        "created_at": "2019-09-17T00:00:00.000Z",
+        "updated_at": "2019-09-17T00:00:00.000Z",
+        "seq": 4
+    },
+    {
+        "id": 3,
+        "name": "人物",
+        "name_en": null,
+        "desc": null,
+        "desc_en": null,
+        "created_at": "2019-09-17T00:00:00.000Z",
+        "updated_at": "2019-09-17T00:00:00.000Z",
+        "seq": 5
+    },
+    {
+        "id": 4,
+        "name": "日出",
+        "name_en": null,
+        "desc": null,
+        "desc_en": null,
+        "created_at": "2019-09-17T00:00:00.000Z",
+        "updated_at": "2019-09-17T00:00:00.000Z",
+        "seq": 6
+    },
+    {
+        "id": 5,
+        "name": "高山",
+        "name_en": null,
+        "desc": null,
+        "desc_en": null,
+        "created_at": "2019-09-17T00:00:00.000Z",
+        "updated_at": "2019-09-17T00:00:00.000Z",
+        "seq": 7
+    },
+    {
+        "id": 6,
+        "name": "星空",
+        "name_en": null,
+        "desc": null,
+        "desc_en": null,
+        "created_at": "2019-09-17T00:00:00.000Z",
+        "updated_at": "2019-09-17T00:00:00.000Z",
+        "seq": 8
+    }
+]
