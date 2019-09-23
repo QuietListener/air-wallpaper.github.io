@@ -23,7 +23,7 @@
     },
     {
         "id": 3,
-        "big_img": "https://images.unsplash.com/photo-1455998450620-4427309e3222?ixlib=rb-1.2.1&auto=format&fit=crop&w=2534&q=85",
+        "big_img": "https://images.unsplash.com/photo-1455998450620-4427309e3222?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=85",
         "small_img": "https://images.unsplash.com/photo-1455998450620-4427309e3222?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80", 
         "desc": null,
 
